@@ -1,0 +1,5 @@
+1812751*0*Nguyễn Thị*Hà*10/20/2000 12:00:00 AM*CTK40*123123123*0123123123*Đà Lạt, Lâm Đồng*Mạng máy tính,Hệ điều hành,Lập trình CSDL,Lập trình trên thiết bị di động,,
+1711713*0*Trần Thị*Hương*10/31/1999 12:00:00 AM*CTK42*134144123*0415515525*Bảo Lộc, Lâm Đồng*Mạng máy tính,Hệ điều hành,Lập trình CSDL,Lập trình mạng,,
+1912314*0*Nguyễn Thị*Mỹ*3/20/2001 12:00:00 AM*CTK44*414515151*0151515252*Đà Lạt, Lâm Đồng*Mạng máy tính,Hệ điều hành,Lập trình CSDL,Lập trình mạng,,
+1812756*1*Nguyễn Trọng*Nam*3/11/2000 12:00:00 AM*CTK41*123456789*0123.456.789*Đà Lạt, Lâm Đồng*Mạng máy tính,Hệ điều hành,Lập trình CSDL,,
+1711712*1*Nguyễn Văn*Dũng*11/3/1999 12:00:00 AM*CTK39*124515152*0341.414.242*Đức Trọng, Lâm Đồng*Mạng máy tính,Hệ điều hành,Lập trình CSDL,Lập trình mạng,Đồ án cơ sở,Phương pháp NCKH,Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống,

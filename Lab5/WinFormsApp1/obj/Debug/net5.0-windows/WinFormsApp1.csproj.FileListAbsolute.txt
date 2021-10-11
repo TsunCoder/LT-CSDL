@@ -1,0 +1,44 @@
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormNhapSV.resources
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\Data\SinhVien.txt
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AddMonHoc.resources
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TimKiem.resources
+D:\Study\Lập trình cơ sở dữ liệu\Lab\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\Data\SinhVien.txt
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+D:\Lab5\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AddMonHoc.resources
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormNhapSV.resources
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TimKiem.resources
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+D:\Lab5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
