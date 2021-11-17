@@ -1,0 +1,16 @@
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe.config
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.pdb
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.dll
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.dll
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.pdb
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.pdb
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.AssemblyReference.cache
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.SuggestedBindingRedirects.cache
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.Properties.Resources.resources
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.GenerateResource.cache
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CoreCompileInputs.cache
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CopyComplete
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.exe
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.pdb
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.FoodForm.resources

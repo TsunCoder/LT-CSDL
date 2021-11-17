@@ -1,0 +1,9 @@
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Github\LT-CSDL\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.pdb

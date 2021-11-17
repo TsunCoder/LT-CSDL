@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90fbf41d-87e5-43a6-8d4e-9e686f65682e": {
+      "ProjectGuid": "90fbf41d-87e5-43a6-8d4e-9e686f65682e",
+      "DisplayName": "RestaurantManagementProject",
+      "ColorIndex": 0
+    },
+    "fcbc0a71-2663-47bf-b473-97739da05114": {
+      "ProjectGuid": "fcbc0a71-2663-47bf-b473-97739da05114",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "1a7397cd-7816-4181-94fa-6de814c288b1": {
+      "ProjectGuid": "1a7397cd-7816-4181-94fa-6de814c288b1",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
