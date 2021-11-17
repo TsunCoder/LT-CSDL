@@ -16,7 +16,7 @@ namespace RestaurantManagementProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FoodForm());
+            Application.Run(new CategoryForm());
         }
     }
 }

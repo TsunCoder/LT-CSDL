@@ -14,3 +14,4 @@ D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\De
 D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.exe
 D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.pdb
 D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.FoodForm.resources
+D:\Github\LT-CSDL\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.CategoryForm.resources

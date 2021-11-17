@@ -246,6 +246,9 @@ GO
 ALTER TABLE [dbo].[RoleAccount] CHECK CONSTRAINT [FK_RoleAccount_Role]
 GO
 
+Select * From Category
+select * from Food
+
 -- Thủ tục lấy tất cả dữ liệu bảng Category
 CREATE PROC [dbo].[Category_GetAll]
 AS
