@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c77ec99a-ebd8-4622-ac16-6be70fe0d429": {
+      "ProjectGuid": "c77ec99a-ebd8-4622-ac16-6be70fe0d429",
+      "DisplayName": "Lab09_Entity_Framework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
