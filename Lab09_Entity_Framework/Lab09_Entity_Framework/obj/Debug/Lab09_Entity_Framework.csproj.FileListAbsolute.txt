@@ -14,3 +14,5 @@ D:\Github\LT-CSDL\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Entity
 D:\Github\LT-CSDL\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
 D:\Github\LT-CSDL\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
 D:\Github\LT-CSDL\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+D:\Github\LT-CSDL\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+D:\Github\LT-CSDL\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodForm.resources

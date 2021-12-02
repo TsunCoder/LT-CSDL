@@ -9,7 +9,7 @@ namespace DataAccess
     public class Ultilities
     {
         // Lấy chuỗi kết nối từ tập tin App.Config
-        private static string StrName = "connectionString";
+        private static string StrName = "connectionStringName";
         public static string ConnectionString = ConfigurationManager.ConnectionStrings[StrName].ConnectionString;
 
         // Các biến bảng Food
